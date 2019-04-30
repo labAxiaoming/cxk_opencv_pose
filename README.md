@@ -1,0 +1,2 @@
+# cxk_opencv_pose
+使用opencv的openpose模型制作蔡徐坤火柴人
